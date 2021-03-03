@@ -1,0 +1,9 @@
+function App() {
+  return (
+    <div className="">
+      <h1>bilal</h1>
+    </div>
+  );
+}
+
+export default App;
