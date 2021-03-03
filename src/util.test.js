@@ -14,7 +14,7 @@ describe("isNumber", () => {
   });
 
   it("returns false when given a boolean", () => {
-    const result = isNumber("This is a boolean");
+    const result = isNumber(true);
 
     expect(result).toBe(false);
   });
