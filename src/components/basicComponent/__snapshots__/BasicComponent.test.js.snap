@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BasicComponent /> renders component with name = Bilal 1`] = `"<div>Hello, Bilal</div>"`;
+
+exports[`<BasicComponent /> renders component without any props 1`] = `""`;
