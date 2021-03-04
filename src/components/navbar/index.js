@@ -64,11 +64,11 @@ const NavBtn = styled.div`
   }
 `;
 
-const Navbar = () => {
+const Navbar = ({ toggle }) => {
   return (
     <Nav>
       <Logo to="/">Bi</Logo>
-      <MenueBars />
+      <MenueBars onClick={toggle} />
       <NavMenue>
         {menueData.map((item, index) => {
           return (
