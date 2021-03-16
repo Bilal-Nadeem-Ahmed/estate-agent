@@ -1,3 +1,6 @@
+I did this project to learn styled components for react. I also used react router.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
